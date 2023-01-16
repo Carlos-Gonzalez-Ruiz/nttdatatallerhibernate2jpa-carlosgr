@@ -100,7 +100,7 @@
 		<!-- Argon2 nativo (a través una librería en C) para hacer hash a las contraseñas de manera eficiente y segura. -->
 		<dependency>
 		    <groupId>de.mkammerer</groupId>
-		    <artifactId>argon2-jvm-nolibs</artifactId>
+		    <artifactId>argon2-jvm</artifactId>
 		    <version>${argon2.version}</version>
 		</dependency>
 		
